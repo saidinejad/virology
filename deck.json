@@ -1,0 +1,941 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "e6077dda-2a78-11f0-b1cd-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.94,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [
+                28.6978,
+                28.9891,
+                29.1933,
+                29.1933,
+                7.1964,
+                0.5564,
+                1.4667,
+                0.001,
+                1.5688,
+                0.1081,
+                1.0313,
+                1.9345,
+                0.116,
+                0.2938,
+                2.2643,
+                0.2368,
+                3.0473,
+                0.5283,
+                0.6948
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 365,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg",
+        "paste-35c41cc360a89ac8545fbae872435a1319dcb90e.jpg",
+        "paste-882c20f8f4269466ffb8aa609225e5dfc54197cb.jpg",
+        "paste-91341ede1a9559f24805a7f44168264cc8dd1eb1.jpg",
+        "paste-9b4e2a51861fc983ca1e8831f676df6b204d130d.jpg",
+        "paste-b7e0c326b57bb4c9c7a4eb08cac3e47b391ce461.jpg",
+        "paste-d3f7c3532ddd954b7ef38b1af4e86d99b4015df8.jpg",
+        "paste-d6098c4b027e477bede0aa83b288a98a06649195.jpg",
+        "paste-d8540ffd0093e63bcb978540dff499af9b957215.jpg",
+        "paste-ea470192245b3d9ee4a40ee5743fdbd9077a5c90.jpg"
+    ],
+    "name": "virology",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@1f5be0a",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "چهار گیاه بیشتر در معرض ابتلا به ویروس را نام ببرید",
+                "سیب زمینی<br>گوجه<br>تنباکو<br>نارگیل"
+            ],
+            "guid": "HHnD^PA11P",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DNA ویروس ها موجب کشف چه واکنشاتی شدن؟",
+                "پروموتر برای RNA پلیمراز<br>فرایند همانندسازی DNA<br>ویرایش RNA"
+            ],
+            "guid": "P}5G8es=vO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اولین بار ویروس ها چگونه کشف شدند؟",
+                "با فیلتر کردن گیاه تنباکوی بیمار<br>"
+            ],
+            "guid": "bytZa|!hF4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بزرگترین ویروس جانوری",
+                "vaccinia"
+            ],
+            "guid": "yZ%W~(y;9{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جنس envelope ویروس ها",
+                "لیپید"
+            ],
+            "guid": "xcf*f=gc<{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس ها توانایی تامین انرژی لازم برای بقای خود را دارند",
+                "نه هیچ نوع انرژی ای تولید نمیکنن"
+            ],
+            "guid": "x=G`uoWb`S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو مرحله بیان ژن ویروسی در سلول میزبان را توضیح دهید",
+                "اول یه دور بعد از uncoat شدن&nbsp;<br>و بعد از تکثیر ژن ویروسی<br><img src=\"paste-ea470192245b3d9ee4a40ee5743fdbd9077a5c90.jpg\">"
+            ],
+            "guid": "fI=con8w`y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "طبق دسته بندی بالتیمور ویروس ها چند گروه هستند؟",
+                "اول گفت 6 بعد فهمیدن 7"
+            ],
+            "guid": "fVAZ<4dPP*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اساس دسته بندی بالتیمور",
+                "مسیر رسیدن به mRNA و پروتیین سازی"
+            ],
+            "guid": "oP)]VSTJ6]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس های sense و antisense یعنی چی؟",
+                "یعنی ویروسی که ژنومش RNA تک رشته ایه<br>sense: نواحی کد کننده داره و مستقیما به پروتیین ویروسی ترجمه میشه<br>antisense: نواحی کد کننده نداره و رشته ی مکملش به پروتیین ویروسی ترجمه میشه"
+            ],
+            "guid": "O]Vg57W{Y:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "RNA تک رشته ای مثبت و منفی چی هستن؟",
+                "مثبت: sense (ترجمه مستقیم)<br>منفی: antisense (ترجمه از رشته مکمل)"
+            ],
+            "guid": "FCE:JE*&z6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پسوند های مرتبط با تاکسونومی ویروس ها<br>رده<br>خانواده<br>زیرخانواده<br>جنس",
+                "وایرال<br>ویریده<br>ویرینه<br>ویروس<br><img src=\"paste-b7e0c326b57bb4c9c7a4eb08cac3e47b391ce461.jpg\">"
+            ],
+            "guid": "iSDDHygf0=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس ها با کوچک ترین ژنوم متعلق به کدام گروه هستند؟",
+                "DNA تک رشته ای"
+            ],
+            "guid": "s*vcjvSB~8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در ویروس های DNA تک رشته ای پوشش لیپیدی دیده می شود؟",
+                "نه. تو هیچ کدومشون<br><img src=\"paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg\">"
+            ],
+            "guid": "GbrFlaGiwv",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یک خانواده از ویروس های تک رشته ای DNA",
+                "parvoviridae<br><img src=\"paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg\">"
+            ],
+            "guid": "B~up/[Y@Le",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ها و ویژگی های ویروس های تک رشته ای DNA",
+                "<img src=\"paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg\">"
+            ],
+            "guid": "Ef@r}W&OpL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت بین ویروس های تک رشته ای و دو رشته ای DNA که بین تمام خانواده هاشون صادقه",
+                "ابعاد ژنوم دو رشته ای ها بیشتره"
+            ],
+            "guid": "h;G]QAZ-5l",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس های DNA همگی ژنوم تک قسمتی دارن",
+                "بله"
+            ],
+            "guid": "o?g!KIs}l",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس ها با ژنوم کوچک تر پوشش لیپیدی دارن یا بزرگ تر؟",
+                "بزرگ تر"
+            ],
+            "guid": "tm6>d#%V5]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اغلب باکتریوفاژ ها متعلق به کدام گروه ویروس ها هستند؟",
+                "DNA دو رشته ای"
+            ],
+            "guid": "I3MdC~oN_T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی ها و خانواده های ویروس های دو رشته ای DNA",
+                "<img src=\"paste-d6098c4b027e477bede0aa83b288a98a06649195.jpg\">"
+            ],
+            "guid": "xKFHoJ?3(`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اغلب ویروس های گیاهی متعلق به کدام دسته از ویروس ها هستند؟",
+                "RNA های رشته مثبت"
+            ],
+            "guid": "ng<eOOto9P",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند خانواده باکتریوفاژ دارای RNA رشته مثبت هستند؟",
+                "یکی"
+            ],
+            "guid": "bh)dn:6QrY",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بزرگترین ژنوم در RNA ویروس ها متعلق به کدام خانواده است؟",
+                "coronaviridae"
+            ],
+            "guid": "z1tj}mk|Wb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام RNA ویروس ها ژنوم حلقوی دارند",
+                "نه همشون خطی ان"
+            ],
+            "guid": "tmT{w=Cf(l",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو گروه از ویروس ها با RNA حلقوی را نام ببرید",
+                "ماهواره ای ها<br>ویرویید ها"
+            ],
+            "guid": "veBk]Z.kY(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بزرگترین RNA ویروسی رشته مثبته یا منفی؟",
+                "مثبت"
+            ],
+            "guid": "o`*|)H@(WX",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت کوتاه تر بودن ژنوم ویروس ها با ژنوم تک رشته ای نسبت به دو رشته ای چیست؟",
+                "تک رشته ایا بیشتر احتمال داره با نوکلئاز کوچیک بشن"
+            ],
+            "guid": "i6>4wqu5>$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ها و ویژگی های ویروس های رشته مثبت RNA",
+                "<img src=\"paste-35c41cc360a89ac8545fbae872435a1319dcb90e.jpg\">"
+            ],
+            "guid": "g8S1ajEk@p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین ویروس های بیماری زای انسانی متعلق به کدام گروه ویروس ها هستند؟",
+                "RNA رشته منفی"
+            ],
+            "guid": "z/5_]i1y))",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی کپسید ویروس های RNA رشته منفی",
+                "هلیکال هستن همشون"
+            ],
+            "guid": "FK[h^#g:?:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام ویروس های RNA رشته منفی مهره داران دارای پوشش لیپیدی هستند؟",
+                "بله"
+            ],
+            "guid": "EbS~H0@1(S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تا کنون در کدام دسته از ویروس ها ویروس باکتریایی یافت نشده است؟",
+                "RNA رشته منفی"
+            ],
+            "guid": "L(g)zR>%*[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ها و ویژگی های ویروس های گروه RNA رشته منفی",
+                "<img src=\"paste-9b4e2a51861fc983ca1e8831f676df6b204d130d.jpg\">"
+            ],
+            "guid": "un%pA7S7Sz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس های RNA دو رشته ای نیز ممکن است تک قسمتی باشند",
+                "نه&nbsp;"
+            ],
+            "guid": "NGT-$%.OC2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نوع تقارن کپسید ویروس های دو رشته ای RNA",
+                "icosahedral"
+            ],
+            "guid": "OF?rS=4$|V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ویروسی با بیشترین تنوع میزبان",
+                "Reoviridae"
+            ],
+            "guid": "*r[{FU[io",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده های ویروسی با میزبان گیاهی",
+                "reoviridae<br>rhabdoviridae<br>bunyaviridae"
+            ],
+            "guid": "KV,!huwniG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها خانواده ی ویروسی RNA دو رشته ای<br>+ ویژگی هاش",
+                "reoviridae<br><img src=\"paste-882c20f8f4269466ffb8aa609225e5dfc54197cb.jpg\">"
+            ],
+            "guid": "Gj>fCVVB{h",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 خانواده ویروسی که ژنوم خودشون رو به DNA میزبان وارد میکنن",
+                "Hepadnaviridae<br>Retroviridae<br>Caulimoviridae"
+            ],
+            "guid": "OhNMPRMX3#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای وارد کردن ژنوم ویروسی به DNA میزبان به چه آنزیمی نیازه؟",
+                "حتما باید reverse transcriptase داشته باشه ویروس"
+            ],
+            "guid": "HD6SQo=T8D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ویروسی ای که دارای DNA دو رشته ای حلقوی خاص است چیه و چرا خاصه؟",
+                "hepadnaviridae<br>چون ته یکی از رشته هاش یه امتداد تک رشته ای با طول متغیر داره"
+            ],
+            "guid": "oifvUR(z)1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام ویروس دارای آنزیم reverse transcriptase ژنوم خطی داره؟",
+                "retroviridae"
+            ],
+            "guid": "gp<WQ0x/z&",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ها و ویژگی های ویروس های دارای آنزیم reverse transcriptase",
+                "<img src=\"paste-d3f7c3532ddd954b7ef38b1af4e86d99b4015df8.jpg\">"
+            ],
+            "guid": "POVmfnFM>G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ژنوم شبه ویروسی چیه؟",
+                "ژنومیه که فقط با اتصال با ویروس های دیگه میتونه تکثیر شه"
+            ],
+            "guid": "L%HOa9b==i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس ها و نوکلییک اسید های ماهواره ای به ........ برای تکثیر نیاز دارن",
+                "ویروس کمک کننده helper virus"
+            ],
+            "guid": "QL`>=>9(%s",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت ویروس و نوکلییک اسید ماهواره ای&nbsp;",
+                "ویروس ماهواره ای: ژنومش پروتیین های کپسید خودشو کد میکنه<br>نوکلییک اسید ماهواره ای: ژنوم یا کلا چیزی کد نمیکنه یا پروتیینای غیر کپسیدی کد میکنه و ژنومشون با پروتیین های ساختاری ویروس کمکی دارای کپسید میشه."
+            ],
+            "guid": "oU~co1~~O;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های خانواده های ویروس های ماهواره ای",
+                "<img src=\"paste-91341ede1a9559f24805a7f44168264cc8dd1eb1.jpg\">"
+            ],
+            "guid": "mnhKNT:PQ:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده ی کوچکترین ویروس های DNA جانوری",
+                "parvoviridae"
+            ],
+            "guid": "nep<3?u;IM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های ویریون های خانواده ی parvoviridae",
+                "به غیرفعالسازی مقاومن<br>توی ph 3-9&nbsp;<br>گرما تا 60 درجه هم تحمل میکنن<br><br>با فورمالین و بتا پروپیولاکتون و عوامل اکسید کننده غیرفعال میشن"
+            ],
+            "guid": "Js[Y)9CjWn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گیرنده ی ویروس B19 در انسان؟",
+                "آنتی ژن گروه خونی P<br>یا همون globoside"
+            ],
+            "guid": "Gd!QRnO?UK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیرخانواده های خانواده parvoviridae",
+                "parvovirinae<br>densovirinae"
+            ],
+            "guid": "qK5@*^VX{T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "میزبان هر زیرخانواده parvoviridae",
+                "parvovirinae: مهره داران<br>densovirinae: حشرات"
+            ],
+            "guid": "q}d/PnVCJY",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جنس های زیرخانواده parvovirinae",
+                "1. erythrovirus<br>2. bocavirus<br>3. parvovirus<br>4. amdovirus<br>5. dependovirus"
+            ],
+            "guid": "l3Was08Qt2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین گونه ی erythrovirus&nbsp;",
+                "B19 human parvovirus"
+            ],
+            "guid": "GIcQ|dSr)|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "amdovirus کدوم جانوران رو بیمار میکنه؟",
+                "minks یا یه نوع راسوی آبی"
+            ],
+            "guid": "I!.1nug^m4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام جنس از parvovirinae ها به ویروس کمکی نیاز داره؟",
+                "dependovirus"
+            ],
+            "guid": "i?:zTKir;F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دوتا جنس ویروس که میتونن ویروس کمکی بشن نام ببر",
+                "adenovirus<br>herpesvirus"
+            ],
+            "guid": "P:,|_(S[Xx",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سلول هدف B19<br>محل هدف",
+                "سلول های(اریتروسیت) نابالغ خونی&nbsp;<br>مغز استخوان بالغ و کبد جنین + سلول های خونی"
+            ],
+            "guid": "z:/{+`faBj",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه انتقال B19&nbsp;<br>در کدام ترشحات بدن دیده میشه؟",
+                "خون و ترشحات تنفسی<br>خون و ترشحات تنفسی (ادرار و مدفوع نه)"
+            ],
+            "guid": "LW:ro,.W3S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری های ناشی از B19",
+                "<img src=\"paste-d8540ffd0093e63bcb978540dff499af9b957215.jpg\">"
+            ],
+            "guid": "vckW~nE||4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری پنجم چیست",
+                "erythema infectiosum"
+            ],
+            "guid": "chiN];;[XK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین عفونت ناشی از B19",
+                "erythema infetiosum"
+            ],
+            "guid": "Q(b^`Q-INt",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علامت رایج ناشی از B19 در کودکان مدرسه ای",
+                "گونه ی سیلی خورده (راش پوستی ناشی از erythema infectiosum)<br>اریتماتوز"
+            ],
+            "guid": "d8+fR4<)Un",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علامت erythema infectiosum در بالغین",
+                "درد مفاصل دست و زانو شبیه ارتریت روماتیک"
+            ],
+            "guid": "c$H(eToyCg",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم erythema infectiosum پس از چه مدت از بین میرن؟",
+                "راش پوستی: 2 تا 4 روز<br>درد مفاصل: بیشتر طول میکشه که ممکنه به سال هم بکشه"
+            ],
+            "guid": "Ki19NE]=Q;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is transient aplastic crisis",
+                "از بین رفتن سلول های پیش ساز اریتروسیتی ناشی از ابتلا به B19 مخصوصا در بیماران دارای نقص در سیستم خون سازی مثل تالاسمی و سیکل سل و آنمی همولایتیک"
+            ],
+            "guid": "kii$CFF1%_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری ناشی از B19 در بیماران دارای نقص ایمنی",
+                "pure red cell aplasia"
+            ],
+            "guid": "h]Z3+Vh!>N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is pure red cell aplasia",
+                "سرکوب مغز استخوان =&gt; نیازمند انتقال خون دائمی<br>ناشی از B19"
+            ],
+            "guid": "oxX0oEu*b(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ابتلا به B19 در زمان بارداری باعث کدوم بیماری میشه؟",
+                "hydrops fetalis&nbsp;"
+            ],
+            "guid": "D<K/|R[~Xs",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is hydrops fetalis&nbsp;",
+                "ابتلا به B19 در بارداری باعث میشه خون به بچه نرسه و بمیره"
+            ],
+            "guid": "EH_^0$Bx*t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اغلب مرگ و میر ناشی از hydrops fetalis تا ماه چندم رخ میده؟",
+                "تا قبل از ماه پنجم بارداری"
+            ],
+            "guid": "sZ$.3wV{|O",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص IgM, IgG در مبتلایان به B19 به چه معناست",
+                "IgM: نهایتا 2 تا 3 ماه از ابتلا میگذره<br>IgG: ممکنه سال ها گذشته باشه"
+            ],
+            "guid": "fbjp/JLhVG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هریک از بیماری های ناشی از B19 چجوری درمان میشن؟",
+                "erythema infectiosum + transient aplastic crisis =&gt; درمان علامتی<br>pure red cell aplasia: انتقال خون مداوم<br>hydrops fetalis: درمان نداره"
+            ],
+            "guid": "JT_A.S$.~%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "B19 میتونه از طریق سطوح منتقل بشه؟",
+                "بله"
+            ],
+            "guid": "l]XAvVDR=/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
