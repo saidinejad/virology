@@ -100,11 +100,15 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "paste-06ef4ecb3b6fee5473fa5277a751086672a676ee.jpg",
         "paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg",
         "paste-35c41cc360a89ac8545fbae872435a1319dcb90e.jpg",
+        "paste-6e5b2690f7f50227cf2fa3c0e4204f6bf121231c.jpg",
         "paste-882c20f8f4269466ffb8aa609225e5dfc54197cb.jpg",
         "paste-91341ede1a9559f24805a7f44168264cc8dd1eb1.jpg",
         "paste-9b4e2a51861fc983ca1e8831f676df6b204d130d.jpg",
+        "paste-a014c3d0b423b5a0db7a3b11885cc52ae4277adb.jpg",
+        "paste-a6b5b961769347bca851ff66ccf8b3ec54212231.jpg",
         "paste-b7e0c326b57bb4c9c7a4eb08cac3e47b391ce461.jpg",
         "paste-d3f7c3532ddd954b7ef38b1af4e86d99b4015df8.jpg",
         "paste-d6098c4b027e477bede0aa83b288a98a06649195.jpg",
@@ -932,6 +936,1056 @@
                 "بله"
             ],
             "guid": "l]XAvVDR=/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام دیگر B19&nbsp;",
+                "erythrovirus"
+            ],
+            "guid": "jME=[qXay:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی شاخص خانواده herpesviridae",
+                "عفونت اولیه و ثانویه دارن یعنی عفونت نهفته ایجاد میکنن"
+            ],
+            "guid": "o/*zPU)b*Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شکل ویروین خانواده herpesviridae",
+                "کروی با کپسید 20 وجهی (icosahedral)"
+            ],
+            "guid": "BVBqR7]i;D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در خانواده herpesviridae چه پروتیینی روی پوشش لیپیدی دیده میشه؟",
+                "گیرنده F_c"
+            ],
+            "guid": "fD_*qAc<[i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیرخانواده و گونه های herpesviridae را نام ببرید",
+                "الفا: simplex (HSV-1,2) + varicello (VZV)<br>بتا: cytomegalo (5) + roseolo (6,7)<br>گاما: lymphocrypto (4/EBV) + rhadino (8/KSHV)<br><img src=\"paste-6e5b2690f7f50227cf2fa3c0e4204f6bf121231c.jpg\">"
+            ],
+            "guid": "fLXazowA6a",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت زیرخانواده الفا و بتای خانواده ی herpesviridae در تکثیر",
+                "الفا: سریع و کوتاه =&gt; سایتولیتیک<br>بتا: طولانی و ارام"
+            ],
+            "guid": "c4Um[43W<g",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محل عفونت نهفته در الفا herpesviridae",
+                "نورون ها"
+            ],
+            "guid": "nKZETA5N1V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محل عفونت نهفته در گونه های بتا herpesviridae",
+                "cytomegalovirus: کلیه ها و غدد (مخصوصا لنفاوی)<br>reseolovirus: بافت لنفاوی"
+            ],
+            "guid": "cZ5QsS`9k/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تاثیر cytomegalovirus بر سلول میزبان",
+                "بزرگ و تیله ای کردن (آماس سلولی)"
+            ],
+            "guid": "uL9;+<nk0,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس CMV در کدام خانواده قرار دارد؟",
+                "herpesviridae =&gt; بتا =&gt; cytomegalovirus"
+            ],
+            "guid": "Fn[)-nE~-z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروسی از زیرخانواده ی بتای herpesviridae که عامل سرطان لنفاوی است",
+                "HHV-6,7 = roseolovirus"
+            ],
+            "guid": "t5?=#LYC(s",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محل عفونت نهفته گاما herpesviridae",
+                "بافت لنفاوی"
+            ],
+            "guid": "Q1hYM+1GpO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تبخال علامت تیپیک کدام ویروس است؟",
+                "HSV-1,2 simplex"
+            ],
+            "guid": "s3p%+!]VK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4 عارضه ی ابتلا به HSV",
+                "التهاب لثه و دهان (Gingivostomatitis)<br>التهاب ملتحمه و قرنیه (Keratoconjunctivitis)<br>انسفالیت / مننژیت<br>بیماری تناسلی"
+            ],
+            "guid": "e3i((ha0%!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محل ایجاد عفونت HSV-1 با 2 متفاوته؟",
+                "بله معمولا 1 التهاب دهان و چشم و مغز و مننژ داره ولی 2 تناسلی و مننژ"
+            ],
+            "guid": "G:Ry4a1AS(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس simplex منتقل شده از طریق کانال زایمان به کودک؟",
+                "HSV-2"
+            ],
+            "guid": "un::]@N,*|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پوست برخلاف مخاط به ویروس HSV مقاوم است",
+                "بله"
+            ],
+            "guid": "vq_<x0GS(S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس HSV در پایانه های عصبی تکثیر اولیه انجام میدهد",
+                "نه"
+            ],
+            "guid": "OSm[$+rhwL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گانگلیون های ویروس های HSV-1,2",
+                "1: تری ژمینال<br>2: ریشه پشتی ساکرال"
+            ],
+            "guid": "rBX62~T2Bn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه با HSV-1 موجب تبخال میشه",
+                "نه اولیه بدون تبخاله"
+            ],
+            "guid": "fU]lOv[G#T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "داروهای ضد ویروسی میتوانند عفونت های نهفته را نیز درمان کنند",
+                "نه&nbsp;"
+            ],
+            "guid": "kWlpgpI`87",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت راجعه ناشی از HSV کی ایجاد میشه؟",
+                "شوک و استرس<br>تب<br>اشعه UV<br>جراحت اکسونی"
+            ],
+            "guid": "EW1<azmd!k",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بروز عفونت اولیه HSV-1 چجوریه؟",
+                "معمولا بدون علامت ولی در کودکان 1تا5 سال ممکنه مخاطو درگیر کنه<br><img src=\"paste-a014c3d0b423b5a0db7a3b11885cc52ae4277adb.jpg\">"
+            ],
+            "guid": "F$xx(NF)f+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه با HSV-1 دردناکه یا راجعه؟",
+                "راجعه"
+            ],
+            "guid": "gW=QT0k+p5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه با HSV-1 در چشم بروز پیدا میکنه؟",
+                "بله اگه از طریق چشم مبتلا شه دچار keratitis(آماس قرنیه) و opacification(کدورت قرنیه) میشه و ممکنه کورم بشه"
+            ],
+            "guid": "C~y/yT8`ns",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در چه شرایطی عامل تبخال تناسلی HSV-1ه؟",
+                "اگه بزاق الوده بخوره بهش"
+            ],
+            "guid": "D)Vtn7Evkf",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه با HSV-2 همانند HSV-1 بدون علائم است",
+                "نه علائم داره: ضایعه دردناک / تب / بیحالی / سوزش ادرار / تورم غدد لنفاوی اینگویینال"
+            ],
+            "guid": "Q-}gp]DAkQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت عفونت راجعه با&nbsp; HSV-1,2",
+                "1: شدید و دردناک<br>2: ملایم و حتی بی علامت&nbsp;<br>(کلا اولیه و راجعه شون برعکس همه)"
+            ],
+            "guid": "k`!*g|~V&#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عقربک هرپسی یا herpetic whitlow چیست<br>معمولا چه افرادی دچار این بیماری میشن؟",
+                "وقتی افراد مستعد به HSV-1,2 روی دستشون مبتلا میشن<br>پرسنل بیمارستان"
+            ],
+            "guid": "v}3vnPZufn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "herpes gladiatorum چیست<br>چه افرادی دچارش میشن؟",
+                "وقتی افراد روی بدنشون دچار زگیل ناشی از HSV-1,2 میشن<br>کشتی گیران"
+            ],
+            "guid": "o_-|25hhNf",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خطرناک ترین عارضه ی HSV-1,2",
+                "انسفالی یا مننژیت"
+            ],
+            "guid": "Q/uOgm%>49",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HSV-? فقط عامل مننژیت<br>HSV-? عامل مننژیت و انسفالیت",
+                "2<br>1"
+            ],
+            "guid": "fLi%QMkq&_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انسفالیت و مننژیت ناشی از HSV با عفونت اولیه است",
+                "ممکنه راجعه باشه/ هر دو شدنیه"
+            ],
+            "guid": "eI8(|_B-]V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هرپس نوزادی درگیری کدوم ارگانو به همراه داره؟",
+                "HSV وارد مجاری تنفسی و ریه میشه اغلب از طریق کانال زایمان"
+            ],
+            "guid": "AkxDR_M#Y@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HSV توانایی انتقال از جفت داره",
+                "داره ولی به ندرت"
+            ],
+            "guid": "N=))+(6oP[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "افراد با نقص ایمنی کامل در صورت ابتلا به HSV کدوم ارگاناشون درگیر میشه؟",
+                "همه جا"
+            ],
+            "guid": "L^tn)^lVus",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "درمان دارویی HSV چیه و در چه صورت جواب میدن به درمان؟",
+                "آسیکلوویر<br>والاسیکلوویر<br>ویدارابین<br><br>اگر همون اول که علائم بروز نکرده استفاده کنی"
+            ],
+            "guid": "D3DPys1gb?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مکانیسم عمل داروهای ضد ویروس DNAای",
+                "جلوی فعالیت DNA پلیمراز ویروسی را میگیرن و DNA ویروسی سنتز نمیشه"
+            ],
+            "guid": "hiL2mJkQ1w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه و راجعه با VZV",
+                "اولیه: ابله مرغان<br>راجعه: زونا"
+            ],
+            "guid": "xC.#Yf;Z9_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسری ترین بیماری ویروسی",
+                "ویروس سرخک"
+            ],
+            "guid": "tYt#Df5qrl",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری sporadic چیه؟",
+                "یعنی تک گیر یعنی انتقالش سخته و اپیدمیک نیست"
+            ],
+            "guid": "r+RF1EAc!`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زونا بیشتر در چه افرادی دیده میشه؟",
+                "سالمندان و افراد با اختلال سیستم ایمنی (افراد عادی هم ممکنه)"
+            ],
+            "guid": "G~bk*JMWFe",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس VZV در گانگلیون های ..... نهفته میشه",
+                "حسی"
+            ],
+            "guid": "J6KG$>9iGH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دوره کمون واریسلا یا ابله مرغان",
+                "10 تا 21 روز"
+            ],
+            "guid": "Q;%y.`7uuS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هنگام ابتلا به ابله مرغان به ترتیب کدوم نواحی درگیر میشن؟",
+                "تنه<br>صورت<br>اندام<br>مخاط دهانی و حلقی"
+            ],
+            "guid": "uy|bxp1Y{E",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اولین علامت زونا",
+                "درد شدید در ناحیه ای که هنوز وزیکول ظاهر نشده"
+            ],
+            "guid": "J$Rw.u5ELi",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زونا از طریق هوا نیز منتقل میشود",
+                "بله"
+            ],
+            "guid": "n9,4x`9h4H",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایمنی در برابر ابله مرغان تا حداقل چه مدت باقی میمونه؟",
+                "20 سال"
+            ],
+            "guid": "la^g`5H4}`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نمونه گیری برای تشخیص ویروس VZV از کجاست؟",
+                "سرم یا مایعات وزیکول ها"
+            ],
+            "guid": "P-u}KoBgm?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "درمان دارویی واریسلا یا ابله مرغان",
+                "ویال انتی بادی ضد ویروس میزنن یا پماد موضعی برای تخفیف علائم میزنن<br>وضع خراب باشه: آسیکلوویر / والاسیکلوویر / فامسیکلوویر / فوسکارنت"
+            ],
+            "guid": "D-)MD?aTi~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "واکسن ویروس VZV",
+                "یه Oka داریم و میتونه عفونت راجعه بده<br>یه واکسن زونا داریم که 20 برابر قوی تره و حتی راجعه هم دیگه نخواهیم داشت"
+            ],
+            "guid": "bWJgk^Bwg9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس EBV عامل چه بیماری است؟",
+                "infectious mononucleosis"
+            ],
+            "guid": "b(x:EJ!QG5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری infectious mononucleosis در چه افرادی ایجاد می شود؟",
+                "نرمال و عادی بالغ"
+            ],
+            "guid": "J7ZCH+zSMJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروسی از جنس lumphocrypto نام ببرید",
+                "epstein-barr (EBV)"
+            ],
+            "guid": "n5<J}I;UI7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس EBV در افراد دارای نقص ایمنی چه بیماری ای ایجاد میکند؟",
+                "سرطان ها:<br>سرطان نازوفارنکس<br>لنفوم بورکیت<br>هوچکین و نان هوچکین<br>lymphoproliferative disorders&nbsp;<br>سرطان معده"
+            ],
+            "guid": "vS72>@ZI5N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هدف ویروس EBV چیست",
+                "لنفوسیت های B و سپس سلول های پوششی"
+            ],
+            "guid": "s>0aUL*aV&",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس EBV به صورت نهفته در کدام سلول ها قرار میگیرد؟",
+                "B لنفوسیت"
+            ],
+            "guid": "fti9+qpXU&",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تکثیر کامل ویروس EBV در کدام سلول ها انجام می شود؟",
+                "سلول های پوششی"
+            ],
+            "guid": "u5,#>,x&q~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گیرنده ویروس های EBV در سطح سلول ها",
+                "جز سوم سیستم کمپلمان = C3b = CD21 = CR2"
+            ],
+            "guid": "gVm!}!4A>d",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در داخل توده سرطانی ناشی از EBV همچنان ویروس دیده می شود",
+                "بله توی سلولا میمونه"
+            ],
+            "guid": "kJ2pk@J*[J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری بوسه ناشی از کدام ویروس است؟",
+                "EBV"
+            ],
+            "guid": "n`TbDRUJhx",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه سلولی در تقابل با لنفوسیت B الوده به EBV قرار میگیرد؟",
+                "لنفوسیت T cytotoxic"
+            ],
+            "guid": "LY;8{EoFqu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مخزن و محل تکثیر ناقص ویروس EBV کدوم سلوله؟",
+                "جفتش لنفوسیت B"
+            ],
+            "guid": "hyi)Mgb+uw",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت اولیه با EBV در چه افرادی بدون علامت است؟",
+                "کودکان"
+            ],
+            "guid": "wh~G~;JBF/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "subclinical یعنی چی؟",
+                "relating to or denoting a disease which is not severe enough to present definite or readily observable symptoms."
+            ],
+            "guid": "b]XAv]QA+t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم عفونت ثانویه یا راجعه ناشی از EBV در افراد سالم و دارای نقص ایمنی",
+                "سالم: تنها تیتر ویروس داخل بزاق بالا میره و لکوسیتوز رخ میده<br>دارای نقص ایمنی: مرگبار یا موجب سرطان لنفی بشه"
+            ],
+            "guid": "N&},yISJ6p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دوره کمون ویروس EBV برای عفونت اولیه در افراد بالغ سالم",
+                "30 تا 50 روز"
+            ],
+            "guid": "qW{SWz>?Rm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم infectious mononucleosis&nbsp;",
+                "فاز اول: تب خستگی گلودرد (شبیه سرماخوردگی)<br>فاز دوم: بزرگ شدن طحال و غدد لنفاوی<br>فاز سوم: هپاتیت کبدی"
+            ],
+            "guid": "l^-|<3-71e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس EBV از عوامل ابتلا به MS میتواند باشد",
+                "بله"
+            ],
+            "guid": "H.|V=cTcog",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زبان مویی در چه افرادی و در اثر ابتلا به چه ویروسی رخ میدهد؟",
+                "افراد دارای نقص ایمنی با ابتلا به EBV از علائم سرطان لنفوماست"
+            ],
+            "guid": "vwvk{`45{_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم ابتلا به لنفومای بورکیت",
+                "تجمع لنفوسیت B در غدد لنفاوی مخصوصا ناحیه فک و به صورت یک طرفه<br><img src=\"paste-a6b5b961769347bca851ff66ccf8b3ec54212231.jpg\">"
+            ],
+            "guid": "jb+eN0a#Rq",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اثر مالاریا بر لنفوما بورکیت",
+                "مالاریا یه کوفاکتور موثر بر سیستم ایمنیه که ابتلا به بورکیتو افزایش میده چجوری؟<br>سرکوب لنفوسیت های T<br>تغییر معماری کروموزومی که سیماک رو کاری میکنه روی ناحیه متغیر انتی بادی بشینه و مقدار بیشتری ازش تولید شه پس تکثیر سلولی لنفوسیت B رو افزایش بده."
+            ],
+            "guid": "NZU*?eT^l8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ابتلا به سرطان نازوفارنکس ناشی از EBV در چه جوامعی شایع تر است؟",
+                "چین و اسیای شرقی در مردان"
+            ],
+            "guid": "wrcqyahEJS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "لنفوم بورکیت قابل بازگشت است",
+                "بله"
+            ],
+            "guid": "N~9t6Iem6+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام دیگر تبخال دهان",
+                "آفت"
+            ],
+            "guid": "G0Dx`B3SZW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری ناشی از ویروس KSHV",
+                "سرطان اندوتلیال (تومور عروقی)"
+            ],
+            "guid": "w{n[YC+O+w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع تومور عضو جدا نشدنی افراد مبتلا به ایدزه؟",
+                "تومور عروقی ناشی از ویروس KSHV"
+            ],
+            "guid": "Bs_^_<0$jJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "راه های انتقال ویروس KSHV",
+                "بزاق<br>تماس جنسی<br>انتقال خون<br>جفت مادر به نوزاد"
+            ],
+            "guid": "fur1q/H<yH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "داروهای درمانی ویروس KSHV",
+                "فوسکارنت<br>فامسیکلوویر<br>گانسیکلوویر<br>سیدوفوویر"
+            ],
+            "guid": "vyPvAaQ^8#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های شکلی ادنوویروس",
+                "داشتن برآمدگی های فیبری از 12 راس به اسم انتن<br><img src=\"paste-06ef4ecb3b6fee5473fa5277a751086672a676ee.jpg\">"
+            ],
+            "guid": "rp^bv3:g-(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ادنوویروس های بیماری زای انسانی از کدام جنسن؟",
+                "Mastadenovirus"
+            ],
+            "guid": "e/-hzE^kM4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند تایپ انتی ژنی در جنس mastadenovirus هست<br>به چند گروه تقسیم میشن؟",
+                "57<br>7 تا از A-G"
+            ],
+            "guid": "Ma6_#%7b+l",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گروه A از mastadenovirus ها دارای کدام سروتیپ هاست؟",
+                "12<br>18<br>31"
+            ],
+            "guid": "lW3F2nisOa",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4 ویژگی گروه A mastadenovirus ها",
+                "1. فاقد خاصیت هموآگلوتینیشن<br>2. 48 تا 49 درصد باز گوانین و سیتوزین<br>3. دارای خاصیت سرطان زایی در بدن&nbsp;<br>4. دارای خاصیت transformation در بدن و در کشت"
+            ],
+            "guid": "uS_}<~4>ge",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تیپ های ایجاد کننده سرماخوردگی حاد در ادنوویروس",
+                "3 7 21"
+            ],
+            "guid": "N%pj7Jo?yL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل 10 تا 20 درصد پنومونی های دوران کودکی",
+                "ادنوویروس ها 3 7 21"
+            ],
+            "guid": "O)>qNBbD8M",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل مرگ و میر ناشی از ARD",
+                "تیپ های 3 7 21 ادنوویروس"
+            ],
+            "guid": "kM^zw4#/e>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویروس شایع پنومونی شبیه انفلوانزا در پادگان ها",
+                "تیپ های 3 7 21 ادنوویروس"
+            ],
+            "guid": "Q.:m{o`.`N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت چشم ناشی از ادنوویروس ها<br>تیپ ها<br>علائم<br>انواع",
+                "اگر ثانویه به تنفس باشه:&nbsp;Pharyngoconjunctival fever: 3 و 7&nbsp;<br>انتقال از طریق استخر: بدون علائم تنفسی&nbsp;swimming pool conjunctivitis: 3 و 7<br>حالت شدید:&nbsp;keratoconjunctivitis: 8 و 19 و 37 بسیار مسری / پلک و قرنیه و سفیدی چشم"
+            ],
+            "guid": "FL^*U0jKr(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "keratoconjunctivitis مدت زمان لازم برای بهبودیش در مقایسه با&nbsp;conjunctivitis چقدره؟",
+                "اولی شدیده 2 هفته<br>دومی 1 تا 2 هفته"
+            ],
+            "guid": "g-tc7{1?>e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یک تیپ ادنوویروس میتونه چند نوع بیماری ایجاد کنه و هر بیماری میتونه ناشی از چند تیپ ادنوویروس باشه",
+                "بله"
+            ],
+            "guid": "wsKy,r1N|i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام تیپ های ادنوویروس شایع ترند؟",
+                "1 تا 7"
+            ],
+            "guid": "B,`uO2*+d7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اغلب سرماخوردگی های باکتریایی هستند",
+                "نه وایرالن"
+            ],
+            "guid": "kA-3X}i<pZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ادنوویروس به الکل و اتر مقاوم ....",
+                "است چون پوشش لیپیدی نداره"
+            ],
+            "guid": "PU}dP@E@]U",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ceratite چیه",
+                "درگیری پلک و سفیدی چشم"
+            ],
+            "guid": "c}?C4}<ChI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام تیپ های ادنوویروس به درگیری های گوارشی منجر میشن؟",
+                "40<br>41"
+            ],
+            "guid": "cN>8`K~.)w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند درصد بیماری های&nbsp;Gastroenteritis ناشی از ادنوویروسن؟",
+                "5 تا 15 درصد"
+            ],
+            "guid": "QXO_~mELLq",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تیپ های ادنوویروس ایجاد کننده عفونت مجاری ادراری&nbsp; یا&nbsp;cystitis&nbsp;",
+                "11<br>21"
+            ],
+            "guid": "mZH4/DX33A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت های ادراری ناشی از ادنوویروس در کدام جنسیت بیشتره",
+                "اقایان"
+            ],
+            "guid": "DM>PejHGlm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ابتلا به هر تیپ از ادنوویروس در برابر بقیه تیپ ها مقاومت ایجاد میکنه",
+                "نه"
+            ],
+            "guid": "A<?6at[.QD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با ابتلا به ادنوویروس ایمنی کامل نسبت بهش ایجاد میشه",
+                "نه دوباره ممکنه مبتلا شیم ولی خفیف که البته این ایمنیش طولانی مدته"
+            ],
+            "guid": "fC8fl-lsca",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نصف کودکان انتی بادی بر علیه ادنوویروس دارن چرا؟",
+                "چون همون اول باهاش مواجه میشن"
+            ],
+            "guid": "e}!9%}0&d{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مدت زمانی که میشه نمونه ادنوویروس گرفت از هر مدل مریضی",
+                "تنفسی بالغین: 1تا7 روز نمونه تنفسی<br>درگیری چشم و گلو: 3تا14 روز نمونه تنفسی یا چشم یا مدفوع<br>درگیری چشم شدید: دو هفته نمونه چشم<br>کودکان بیمار تنفسی: 3 تا 6 هفته نمونه تنفسی یا مدفوع<br>افراد دارای نقص ایمنی: 2تا12 ماه از خون ادرار گلو مدفوع"
+            ],
+            "guid": "HDKS1YBSHz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تستی بهتر از PCR برای تشخیص ادنوویروس",
+                "shell vial (اختصاصیت بیشتر)"
+            ],
+            "guid": "m1^F=oJ#RM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ادنوویروس بیماری خودمحدودشونده است",
+                "بله درمانش علامتیه"
+            ],
+            "guid": "x5!YhNUaIz",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
