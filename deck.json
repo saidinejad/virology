@@ -101,6 +101,7 @@
     "extendRev": 0,
     "media_files": [
         "paste-06ef4ecb3b6fee5473fa5277a751086672a676ee.jpg",
+        "paste-078acd291d59a53d9bae64e7d590fe366bc258be.jpg",
         "paste-115eb48436d63b21f109c38ec4e6c4831b28c18f.jpg",
         "paste-35c41cc360a89ac8545fbae872435a1319dcb90e.jpg",
         "paste-6e5b2690f7f50227cf2fa3c0e4204f6bf121231c.jpg",
@@ -108,6 +109,7 @@
         "paste-91341ede1a9559f24805a7f44168264cc8dd1eb1.jpg",
         "paste-9b4e2a51861fc983ca1e8831f676df6b204d130d.jpg",
         "paste-a014c3d0b423b5a0db7a3b11885cc52ae4277adb.jpg",
+        "paste-a5105f3fcfcfb663475c41128de78fdc47c47b3f.jpg",
         "paste-a6b5b961769347bca851ff66ccf8b3ec54212231.jpg",
         "paste-b7e0c326b57bb4c9c7a4eb08cac3e47b391ce461.jpg",
         "paste-d3f7c3532ddd954b7ef38b1af4e86d99b4015df8.jpg",
@@ -1986,6 +1988,26 @@
                 "بله درمانش علامتیه"
             ],
             "guid": "x5!YhNUaIz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی ها و زیرخانواده های herpesviridae",
+                "<img src=\"paste-a5105f3fcfcfb663475c41128de78fdc47c47b3f.jpg\">"
+            ],
+            "guid": "oLRgOlis-P",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های زیرخانواده های adenoviridae",
+                "<img src=\"paste-078acd291d59a53d9bae64e7d590fe366bc258be.jpg\">"
+            ],
+            "guid": "f/KEl+ft?)",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
